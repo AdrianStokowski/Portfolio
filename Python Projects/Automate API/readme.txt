@@ -1,0 +1,1 @@
+I used Python to automate the use of APIs in my project. I was able to streamline my workflows and save time by setting up and scheduling API calls with just a few lines of code. Whether I needed to retrieve data from an external service, update a database, or send notifications, my project made it easy to automate repetitive tasks and focus on more important work.
