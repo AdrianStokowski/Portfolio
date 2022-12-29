@@ -1,0 +1,1 @@
+I created a Python project to manage  movie portfolio. With this project, I was able to easily track and organize my collection of movies, including their titles, descriptions, ratings, and more. I also had the ability to search for movies by various criteria and generate reports on my collection. 
