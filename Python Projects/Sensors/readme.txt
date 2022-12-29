@@ -1,0 +1,1 @@
+In this project, Python was used for analyzing data from sensors.
