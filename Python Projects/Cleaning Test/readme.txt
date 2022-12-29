@@ -1,0 +1,1 @@
+In this Python project, I focused on cleaning and preprocessing text data. This included tasks such as removing special characters, correcting spelling errors, and stemming words to their base form. I also used regular expressions to extract specific patterns from the text and created custom functions to handle unique cases. 
