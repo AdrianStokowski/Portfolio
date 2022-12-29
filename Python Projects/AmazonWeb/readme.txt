@@ -1,0 +1,1 @@
+I used Python to connect to Amazon's APIs in my project. I was able to retrieve data from  Amazon service. With this project, I was able to easily access and manipulate data for tasks such as data analysis.
